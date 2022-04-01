@@ -1,0 +1,12 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.container {
+    margin-left: 2rem;
+    margin-top: 2rem
+}
